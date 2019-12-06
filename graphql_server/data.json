@@ -1,0 +1,29 @@
+{
+  "customerlist": [
+    {
+      "id": 2,
+      "name": "tam",
+      "age": 25
+    },
+    {
+      "id": 3,
+      "name": "jam",
+      "age": 45
+    },
+    {
+      "id": 4,
+      "name": "bam",
+      "age": 15
+    },
+    {
+      "name": "vin",
+      "id": "5",
+      "age": 23
+    },
+    {
+      "name": "vin",
+      "id": "6",
+      "age": 23
+    }
+  ]
+}
