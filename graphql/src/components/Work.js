@@ -18,5 +18,5 @@ export class Work extends Component{
                 <button onClick = {this.handleClick}> click work</button>
             </div>
         )
-    }
+    }   
 }
